@@ -1,6 +1,4 @@
-# music-engine
-
-[Spotify profile](https://open.spotify.com/user/t1e947vjw65dme71utp690f50?si=7WYl7I-mSJ6qDh8SZ5RynA)
+# music-engine | [Patrick's Spotify Profile](https://open.spotify.com/user/t1e947vjw65dme71utp690f50?si=7WYl7I-mSJ6qDh8SZ5RynA)
 
 ### Current Development
 * Using Binder to make changes, re-write entire ipynb file(s), and pushing those changes to origin 
