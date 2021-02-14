@@ -4,7 +4,7 @@
 * Using Binder to make changes, re-write entire ipynb file(s), and pushing those changes to origin 
 * Click [here](https://mybinder.org/v2/gh/patrick-still/music-engine/itunes) to see or make edits
 
-### Relevant APIs
+### Relevant External APIs
 * [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1)
 * [Spotify APIs](https://developer.spotify.com/console/get-search-item/)
 
