@@ -2,7 +2,7 @@
 
 ### Current Development
 * Using Binder to make changes, re-write entire ipynb file(s), and pushing those changes to origin 
-* Click [here](https://mybinder.org/v2/gh/patrick-still/music-engine/spotify) to see or make edits
+* Click [here](https://mybinder.org/v2/gh/patrick-still/music-engine/main) to see or make edits
 
 ### Relevant External APIs
 * [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1)
