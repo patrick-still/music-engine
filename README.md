@@ -18,3 +18,5 @@ Personas
 #### Looking for music the user hasn't heard before but might like -- irrespective of release date
 Personas
 * All
+
+#### Aligning to [actual Spotify personas](https://spotify.design/article/the-story-of-spotify-personas)
